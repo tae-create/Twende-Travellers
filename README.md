@@ -1,1 +1,1 @@
-# Twende-Travellers
+Welcome to Twende-Travellers App! This application is designed to assist travelers in planning their trips, discovering new destinations, and connecting with fellow adventurers. Whether you're a seasoned globetrotter or a first-time explorer, this app has something for everyone.
